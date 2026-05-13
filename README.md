@@ -26,6 +26,8 @@ const renderer = new PacmanRenderer({
 	}
 });
 renderer.start();
+
+#=================================================================================================================================================#
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
