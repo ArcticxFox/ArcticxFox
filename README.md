@@ -1,20 +1,14 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="./output/pacman-contribution-graph.svg" />
-</p>
-
-
 <!--
 **ArcticxFox/ArcticxFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- ## Pac-Man Contribution Graph
- -->
-
+-->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ArctixFox]/[ArctixFox]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ArctixFox]/[ArctixFox]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[ArctixFox]/[ArctixFox]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ArcticxFox]/[ArcticxFox]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ArcticxFox]/[ArcticxFox]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[ArcticxFox]/[ArcticxFox]/output/pacman-contribution-graph.svg">
 </picture>
+
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 <!--
