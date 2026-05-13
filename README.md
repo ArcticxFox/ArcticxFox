@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
+
 <!--
 **ArcticxFox/ArcticxFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
