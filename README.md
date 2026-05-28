@@ -3,17 +3,18 @@
 -->
 
 ```yaml
-[Name]: Elliot Jones:
-[Occupation]: Student at 42 Angoulême focused on low-level programming and systems development:
+Hi, I'm Elliot Jones:
+
+Student at 42 Angoulême focused on low-level programming and systems development:
   * 📍 Angoulême, France
-  * 💻 Currently learning: C, Shell, Unix systems
+  * 💻 Currently learning: C, C++, Shell, Unix systems
   * 🎯 2026 goals:
-[Goals for 2026]:
+
+Goals for 2026:
   * Finish the 42 Common Core
   * Participate in another Game Jam
 
 Background in Electrical Engineering & Industrial Computer Science through a French-Swiss-German program, with experience in:
-
   * C++
   * Assembly
   * Ladder logic
@@ -28,7 +29,10 @@ Outside coding: Tennis, Skiing, Gaming.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArcticxFox/ArcticxFox/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArcticxFox/ArcticxFox/output/pacman-contribution-graph.svg">
 </picture>
-<sub>_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_</sub>
+
+<sub>[abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/) </sub>
+
+
 <!--
 #=================================================================================================================================================#
 Here are some ideas to get you started:
