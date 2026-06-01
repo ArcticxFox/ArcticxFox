@@ -14,7 +14,7 @@ Goals for 2026:
   * Finish the 42 Common Core
   * Participate in another Game Jam
 
-Background in Electrical Engineering & Industrial Computer Science through a French-Swiss-German program, with experience in:
+Background in Electrical Engineering & Computer Science through a French-Swiss-German program, with experience in:
   * C++
   * Assembly
   * Ladder logic
